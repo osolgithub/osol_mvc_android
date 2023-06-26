@@ -1,3 +1,4 @@
+# list of files and folders to ignore in git.
 *.iml
 .gradle
 /local.properties
@@ -13,4 +14,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-# list of files and folders to ignore in git  
